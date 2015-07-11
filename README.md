@@ -8,4 +8,6 @@ This project demonstrates Chrome running in full screen with elements like "Righ
 2. Copy the js files to the js folder.
 3. Insert the scripts on the HTML/PHP page.
 
-        <script src = "js/[scriptname].js"></script>
+```
+<script src = "js/[scriptname].js"></script>
+```
