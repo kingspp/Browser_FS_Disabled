@@ -2,7 +2,7 @@
 This project demonstrates Chrome running in full screen with elements like "Right Click", "F Keys", "Inspection methods" disabled.
 
 
-# Instructions<br><br>
+# Instructions<br>
 
 1. Create a folder named "js" in root path.
 2. Copy the js files to the js folder.
