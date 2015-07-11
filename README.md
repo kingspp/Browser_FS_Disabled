@@ -1,6 +1,7 @@
 # Chrome_FS_Disabled
 This project demonstrates Chrome running in full screen with elements like "Right Click", "F Keys", "Inspection methods" disabled.
 
+<b>Requires <a href="https://jquery.com/">Jquery</a></b>
 
 # Instructions<br>
 
